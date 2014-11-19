@@ -1,0 +1,10 @@
+{
+	"name": "kivweb-3",
+	"version": "1.0.0",
+	"description": "EXAMPLE #3",
+	"main": "socket.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrtnzlml/kivweb-3.git"
+	}
+}
